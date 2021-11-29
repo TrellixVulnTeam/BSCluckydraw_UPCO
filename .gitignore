@@ -21,3 +21,5 @@ yarn-error.log*
 *.sw?
 config.js
 test.js
+node_modules
+node_modules
